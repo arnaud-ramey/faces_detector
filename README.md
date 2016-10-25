@@ -2,6 +2,8 @@
                   |   faces_detector     |
                   +----------------------+
 
+[![Build Status](https://travis-ci.org/arnaud-ramey/faces_detector.svg)](https://travis-ci.org/arnaud-ramey/faces_detector)
+
 Various face detectors based on different algorithms.
 
 License :                  see the LICENSE file.
